@@ -1,7 +1,8 @@
 # World Trade Model
 Python code for the World Trade Model (WTM), a linear programming model utilizing input-output economics.  This version includes the Rectangular Choice-of-Technology (RCOT) as well as the option to solve for bilateral trade (WTMBT).
 
-Installation
+Installation:
+
 1) Download the WTM package.
 
 2) Install latest version of Python and/or Python API.  This code has been successfully run using Canopy.
