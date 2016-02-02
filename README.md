@@ -14,7 +14,8 @@ Installation
 
 5) Install any additional PuLP solvers you need besides the default CBC solver (GLPK, CPLEX, GUROBI, etc.)
 
-Usage
+Usage:
+
 To solve the 3 region example using the WTM with Rectangular Choice-of-Technology
 - Run WTM Version 0.60 in Python or Python API to solve with only resource constraint
 - Run WTM Version 0.61 in Python or Python API to solve with both resource constraint and benefit-of-trade constraint
