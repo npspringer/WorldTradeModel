@@ -18,9 +18,9 @@ Installation:
 Usage:
 
 To solve the 3 region example using the WTM with Rectangular Choice-of-Technology
-- Run WTM Version 0.60 in Python or Python API to solve with only resource constraint
-- Run WTM Version 0.61 in Python or Python API to solve with both resource constraint and benefit-of-trade constraint
-- Run WTMBT Version 0.60 in Python or Python API to solve with resource constrant and bilateral trade constraint
-- Run WTMBT Verson 0.61 in Python or Python API to solve with resource constraint, benefit-of-trade constraint, and bilateral trade constraint
+- Run WTM_RCOT.py in Python or Python API to solve with only resource constraint
+- Run WTM_RCOT_BOT.py in Python or Python API to solve with both resource constraint and benefit-of-trade constraint
+- Run WTMBT_RCOT.py in Python or Python API to solve with resource constrant and bilateral trade constraint
+- Run WTMBT_RCOT_BOT.py in Python or Python API to solve with resource constraint, benefit-of-trade constraint, and bilateral trade constraint
 
 Contact nat.springer@gmail.com if interested in using the WTM to solve problems using other datasets.
