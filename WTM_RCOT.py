@@ -1,5 +1,5 @@
 """
-The World Trade Model with Rectangular Choice-in-Technology in Python using Pulp
+The World Trade Model in Python using Pulp
 Date: 2-5-2016
 
 Version: 0.60
