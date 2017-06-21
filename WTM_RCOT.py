@@ -32,6 +32,7 @@ Transport_Sectors = sets.ix[:,3].dropna().values
 No_Trade_Sectors = sets.ix[:,4].dropna().values
 Factors_k = sets.ix[:,5].dropna().values
 Factors_l = sets.ix[:,6].dropna().values
+Waste = sets.ix[:,7].dropna().values
 
 imax = Regions.size
 nmax = Sectors.size
